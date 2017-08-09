@@ -58,5 +58,8 @@ if __name__ == '__main__':
 	#Pin initialize
 	GPIO_Setup(pin_list)
 	while True:
-		pass		 
+		pass	
+
+def test_func():
+	pass	 
 	
